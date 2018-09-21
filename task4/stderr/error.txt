@@ -1,0 +1,3 @@
+Everything given in err.println() will be printed in error.txt
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at sample.Demo.main(Demo.java:24)

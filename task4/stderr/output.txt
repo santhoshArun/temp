@@ -1,0 +1,2 @@
+Everything given in out.println() will be printed in output.txt
+100/20 = 5
